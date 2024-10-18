@@ -1,0 +1,7 @@
+ie/tcd/jay/IndexBuilder.class
+ie/tcd/jay/Main.class
+ie/tcd/jay/QuerySanitizer.class
+ie/tcd/jay/FileHelper.class
+ie/tcd/jay/QueryProcessor.class
+ie/tcd/jay/DocumentParser.class
+ie/tcd/jay/Tokenizer.class
